@@ -86,4 +86,4 @@ JDBC Url:
 
 ```jdbc:h2:mem:ximple```
 
-Note: You do not need to enter a password, just user name = sa
+Note: You do not need to enter a password, just username = sa
